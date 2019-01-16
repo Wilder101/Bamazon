@@ -8,10 +8,10 @@ Start by using MySQL Workbench and the SQL directory. First, create the Bamazon 
 Refer to these screenshots showing the needed SQL statements for creating the bamazon database.
 
 schema.sql:
-![Image of schema.sql] (https://github.com/Wilder101/Bamazon/blob/master/Images/schema.png)
+![Image of schema.sql] (Images/schema.png)
 
 seeds.sql:
-![Image of seeds.sql] (https://github.com/Wilder101/Bamazon/blob/master/Images/seeds.png)
+![Image of seeds.sql] (Images/seeds.png)
 
 Once your database is up and running, be sure to run the following Node Package Manager commands in the same directory as your cloned Bamazon repository in order to build the json.package initialization files and two library prerequisites:
     npm init -y
