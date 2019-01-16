@@ -29,18 +29,18 @@ Note that you may need to update the "user" and "password" values on lines 18 & 
 When Bamazon starts up, the current inventory is displayed on the command line and you are asked the ID of the product you would like to buy.
 
 At startup:
-![Image of startup]
-(https://github.com/Wilder101/Bamazon/tree/master/Images/startup.png)
+
+![Image of startup](Images/startup.png)
 
 Simply enter the ID of the product you wish to purchase. You will then be prompted to enter the quantity of said product. Once the quantity is entered, Bamazon decides if the product can be sold to you. If it can, your order will ship and your total will be displayed. If the product and quantity cannot be fulfilled, you will be notified.
 
 Successful transaction:
-![Image of successful transaction]
-(https://github.com/Wilder101/Bamazon/tree/master/Images/success.png)
+
+![Image of successful transaction](Images/success.png)
 
 Too little inventory transaction:
-![Image of failed transaction]
-(https://github.com/Wilder101/Bamazon/tree/master/Images/fail.png)
+
+![Image of failed transaction](Images/fail.png)
 
 ## Languages used
 * JavaScript
