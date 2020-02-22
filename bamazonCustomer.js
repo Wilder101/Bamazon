@@ -1,4 +1,5 @@
 // Bamazon by WBM, 1/11/19, bamazonCustomer.js file
+// Updated prereq packages due to new security vulnerabilities, 2/22/20
 
 // Prereqs on the CLI:
 // npm init -y
