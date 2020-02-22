@@ -18,8 +18,9 @@
   },
   "homepage": "https://github.com/Wilder101/Bamazon#readme",
   "dependencies": {
-    "inquirer": "^6.2.1",
-    "mysql": "^2.16.0",
+    "inquirer": "^6.5.2",
+    "mysql": "^2.18.1",
     "table": "^5.2.1"
-  }
+  },
+  "devDependencies": {}
 }
